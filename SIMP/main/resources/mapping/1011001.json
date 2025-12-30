@@ -1,0 +1,13 @@
+{
+  "resultsetToFields": {
+    "CODPROD_ANP": "CODIGO_PRODUTO_ANP",
+    "QTD_CONVERTIDO_KG": "QTD_UN_KG",
+    "CODMODAL_SIMP": "COD_MODAL_SIMP",
+    "DTNEG": "DATA_MOV",
+    "CNPJ_PARC": "CNPJ_PARC",
+    "UF_EMP": "UF"
+  },
+  "defaults": {
+    "CODIGO_OPERACAO": "1011001"
+  }
+}
